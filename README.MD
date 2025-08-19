@@ -17,4 +17,5 @@ Install the [adw-gtk3](https://github.com/lassekongo83/adw-gtk3?tab=readme-ov-fi
 # Note
 Includes templates stolen from [InioX's matugen-themes](https://github.com/InioX/matugen-themes) repo.  
 I made the KDE stuff work, but I'm not smart enough nor have the patience to do the others.  
-Instructions on how to use the rest of the templates are on the matugen-themes repo.
+Instructions on how to use the rest of the templates are on the matugen-themes repo.  
+The above repo is also kind of just the better way especially if you follow Qt-Method-2. I did all of this not realizing they did it better.
