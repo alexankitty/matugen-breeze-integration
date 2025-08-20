@@ -2,6 +2,7 @@
 Basic integation of Matugen with the Breeze theme for gtk and qt.
 
 # Setup
+Ensure you have the breeze and breeze-gtk styles installed.  
 Copy the contents of the repo to `~/.config/matugen/`  
 This will replace your gtk/qt configs, so make sure to back up gtk-3.0, gtk-4.0, qt5ct, and qt6ct folders in .config.
 
