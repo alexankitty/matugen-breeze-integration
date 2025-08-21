@@ -16,3 +16,7 @@ In your Qt6ct/Qt5ct config, set the application style to Breeze and the color sc
 Includes templates stolen from [InioX's matugen-themes](https://github.com/InioX/matugen-themes) repo.  
 Instructions on how to use the rest of the templates are on the matugen-themes repo.  
 
+# Fixes
+The gtk-3.0 folder contains a fix for the vmware/omnissa horizon client.  
+If you're unfortunate to need this and use a dark theme, you can add an import to your gtk-3.0/gtk.css. `@import 'horizon-client.css'`
+
